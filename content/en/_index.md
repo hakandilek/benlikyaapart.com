@@ -7,3 +7,4 @@ cascade:
   featured_image: '/images/hotel-beach.jpg'
 ---
 Short info about the hotel
+Tufan Yasar
