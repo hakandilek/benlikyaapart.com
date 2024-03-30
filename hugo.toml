@@ -1,0 +1,4 @@
+baseURL = 'https://benlikyaapart.com'
+languageCode = 'tr-tr'
+title = 'Benlikya Apart'
+theme = 'ananke'
