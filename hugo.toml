@@ -2,3 +2,41 @@ baseURL = 'https://benlikyaapart.com'
 languageCode = 'tr-tr'
 title = 'Benlikya Apart'
 theme = 'ananke'
+
+# Ananke theme
+DefaultContentLanguage = "tr"
+enableRobotsTXT = true
+
+[languages]
+  [languages.en]
+    title = "Benlikya Apart Hotel"
+    weight = 1
+    contentDir = "content/en"
+    # languageDirection = 'rtl' for Right-To-Left languages
+  [languages.tr]
+    title = "Benlikya Apart Otel"
+    weight = 2
+    contentDir = "content/tr"
+  [languages.de]
+    title = "Benlikya Apart Hotel"
+    weight = 3
+    contentDir = "content/de"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  recent_posts_number = 0
+  summaryLength=300
+  paginate=0
+  recent_copy=" "
+
+[[params.ananke_socials]]
+name = "twitter"
+url = "https://twitter.com/BenlikyaApart"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://instagram.com/BenlikyaApart"
