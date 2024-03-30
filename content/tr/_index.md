@@ -7,3 +7,4 @@ cascade:
   featured_image: '/images/hotel-beach.jpg'
 ---
 Otelle ilgili bir kac satirlik kisa bilgi
+test
