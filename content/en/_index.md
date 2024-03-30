@@ -1,5 +1,5 @@
 ---
-title: "Benlikya Apart Hotel"
+title: "Benlikya Apart"
 
 description: "Your home on vacation"
 theme_version: '2.8.2'
