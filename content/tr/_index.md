@@ -4,6 +4,6 @@ title: "Benlikya Apart"
 description: "Tatildeki eviniz"
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/Apart1.jpg'
+  featured_image: '/images/apart1.jpg'
 ---
 Deniz,tarih ve güneşin kesiştiği Likya uygarlığının başkenti Demre’de farklı konseptlerden oluşan BenLikYa apartımızda sizleri misafir etmek için artık hazırız.
