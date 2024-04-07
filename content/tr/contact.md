@@ -18,5 +18,5 @@ Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15 <br>
 
 **Telefon**
 
-0532-123 4567
++90-505-7753675
 
