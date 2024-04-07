@@ -12,7 +12,8 @@ Contact details of the hotel
 
 **Address**
 
-Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15   <br/>
+Benlikya Apart - \
+Büyük Kum Mah. Büyük Kum Cad. No:15 \
 07570 Demre / ANTALYA
 
 **Phone**
