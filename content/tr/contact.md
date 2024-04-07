@@ -13,7 +13,8 @@ Otelin iletisim bilgileri buraya yazilacak
 
 **Adres**
 
-DEF yolu, ABC Sokak, Sinop
+Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15  /n
+07570 Demre / ANTALYA
 
 **Telefon**
 
