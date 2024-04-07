@@ -6,4 +6,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/hotel-beach.jpg'
 ---
-Otelle ilgili bir kac satirlik kisa bilgi
+Deniz,tarih ve güneşin kesiştiği Likya uygarlığının başkenti Demre’de farklı konseptlerden oluşan BenLikYa apartımızda sizleri misafir etmek için artık hazırız.
