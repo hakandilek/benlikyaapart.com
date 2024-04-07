@@ -7,6 +7,4 @@ cascade:
   featured_image: '/images/hotel-beach.jpg'
 ---
 Short info about the hotel
-Tufan Yasar
-<p>This is<br>a paragraph<br>with line breaks.</p>
-This is a test.
+_Tufan Yasar_
