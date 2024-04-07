@@ -13,7 +13,7 @@ Otelin iletisim bilgileri buraya yazilacak
 
 **Adres**
 
-Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15  /n
+Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15 <br>
 07570 Demre / ANTALYA
 
 **Telefon**
