@@ -9,8 +9,6 @@ read_more_copy: Detaylar
 
 ---
 
-Otelin iletisim bilgileri buraya yazilacak
-
 **Adres**
 
 Benlikya Apart - Büyük Kum Mah. Büyük Kum Cad. No:15 <br>
