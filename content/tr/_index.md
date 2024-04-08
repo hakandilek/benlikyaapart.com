@@ -6,6 +6,6 @@ theme_version: '2.8.2'
 cascade:
   featured_image: '/images/apart1.jpg'
 ---
-Deniz,tarih ve güneşin kesiştiği Likya uygarlığının başkenti Demre’de farklı konseptlerden oluşan BenLikYa apartımızda sizleri misafir etmek için artık hazırız.\
+Deniz,tarih ve güneşin kesiştiği Likya uygarlığının başkenti Demre’de farklı konseptlerden oluşan BenLikYa apartımızda sizleri misafir etmek için artık hazırız.
 
 
