@@ -8,5 +8,5 @@ cascade:
 ---
 Short info about the hotel
 ---
-![apart2](/static/images/apart2.jpg)
+![apart3](/static/images/apart3.jpg)
 _Tufan Yasar_
