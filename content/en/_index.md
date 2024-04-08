@@ -8,5 +8,5 @@ cascade:
 ---
 Short info about the hotel
 ---
-![Apart1](/static/images/apart2.jpg)
+![apart2](benlikyaapart.com/static/images/apart2.jpg)
 _Tufan Yasar_
